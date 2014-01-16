@@ -10,6 +10,11 @@ h1.header{
     color: white;
 }
 
+img.header{
+    width: 150px;
+    height: 150px;
+}
+
 .wrapper{
     width: 650px;
     margin-left:auto;

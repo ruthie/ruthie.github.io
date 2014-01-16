@@ -1,12 +1,19 @@
 body{
-    background-color: purple;
+    background-color: #2B002B;
 }
 
 .header{
-    background-color: red;
+    background-color: #833083;
 }
 
 h1.header{
     color: white;
+}
+
+.wrapper{
+    width: 650px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #B88AE6;
 }
 

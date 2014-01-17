@@ -4,6 +4,7 @@ body{
 
 .header{
     background-color: #833083;
+    width: 640px;
 }
 
 h1.header{
@@ -16,9 +17,23 @@ img.header{
 }
 
 .wrapper{
-    width: 640px;
+    width: 800px;
     margin-left:auto;
     margin-right:auto;
     background-color: #B88AE6;
+    padding: 0px;
 }
 
+table.wrapper{
+    border-spacing: 0px;
+    padding: 0px
+}
+
+td.nospace{
+    padding: 0px
+}
+
+.sidebar{
+    width: 160px;
+    background-color: #FFFFFF
+}

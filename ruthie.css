@@ -1,14 +1,19 @@
 body{
     background-color: #2B002B;
+    font-family: 'Crimson Text';
 }
 
-.header{
-    background-color: #833083;
+div.header{
+    background-color: #4C0066;
     width: 640px;
 }
 
 h1.header{
     color: white;
+    font-size: 48pt;
+    margin: 10px;
+    font-weight: normal;
+    font-color: white;
 }
 
 img.header{
@@ -24,6 +29,10 @@ img.header{
     padding: 0px;
 }
 
+.content{
+    padding: 10px;
+}
+
 table.wrapper{
     border-spacing: 0px;
     padding: 0px
@@ -35,5 +44,5 @@ td.nospace{
 
 .sidebar{
     width: 160px;
-    background-color: #4C0066
+    background-color: #833083;
 }

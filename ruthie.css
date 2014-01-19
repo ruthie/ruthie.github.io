@@ -59,3 +59,8 @@ td.nospace{
     text-decoration: none;
     color: #290029;
 }
+
+.divider{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,31 @@
+<head>
+  <title>{{page.title}}</title>
+  <link rel="stylesheet" type="text/css" href="/ruthie.css"></link>
+  <link href="http://fonts.googleapis.com/css?family=Crimson+Text:400" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="wrapper">
+{% include pictures.html %}
+
+<table class="wrapper">
+<tr>
+  <td class="sidebar nospace">
+    {% include sidebar.html %}
+  </td>
+  <td class="nospace">
+    <div>
+      {% include header.html %}
+      <div class="content">
+      {{content}}
+
+      <hr class="divider">
+
+      {% include comments.html %}
+      </div>
+    </div>
+  </td>
+</tr>
+</table>
+<div>
+</body>

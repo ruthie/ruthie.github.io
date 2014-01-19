@@ -45,4 +45,17 @@ td.nospace{
 .sidebar{
     width: 160px;
     background-color: #833083;
+    vertical-align: top;
+}
+
+.sidebar-link{
+    background-color: #FFFFFF;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+.link-text{
+    text-decoration: none;
+    color: #290029;
 }

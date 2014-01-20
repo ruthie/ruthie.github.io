@@ -1,29 +1,9 @@
-{% include head.html %}
-
-
-<body>
-<div class="wrapper">
-{% include pictures.html %}
-
-<table class="wrapper">
-<tr>
-  <td class="sidebar nospace">
-    {% include sidebar.html %}
-  </td>
-  <td class="nospace">
-    <div>
-      {% include banner.html %}
-      <div class="content">
+{% capture inner_content %}
       <h1>{{ page.title }}</h1>
       {{content}}
-
       <hr class="divider">
-
       {% include comments.html %}
-      </div>
-    </div>
-  </td>
-</tr>
-</table>
-<div>
-</body>
+{% endcapture %}
+
+{% include framework.html content=inner_content %}
+

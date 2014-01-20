@@ -1,0 +1,24 @@
+{% include head.html %}
+
+<body>
+<div class="wrapper">
+{% include pictures.html %}
+
+<table class="wrapper">
+<tr>
+  <td class="sidebar nospace">
+    {% include sidebar.html %}
+  </td>
+  <td class="nospace">
+    <div>
+      {% include banner.html %}
+      <div class="content">
+
+      {{include.content}}
+      </div>
+    </div>
+  </td>
+</tr>
+</table>
+<div>
+</body>

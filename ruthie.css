@@ -29,6 +29,11 @@ img.header{
     padding: 0px;
 }
 
+.tech-text{
+    text-align: center;
+    color: white;
+}
+
 .content{
     padding: 10px;
 }

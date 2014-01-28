@@ -31,7 +31,7 @@ img.header{
 
 .tech-text{
     text-align: center;
-    color: white;
+    color: #E0B2E0;/*#D6ADD6;*/
 }
 
 .content{
@@ -63,6 +63,10 @@ td.nospace{
 .link-text{
     text-decoration: none;
     color: #290029;
+}
+
+.tech-link{
+    color: #833083;
 }
 
 .divider{

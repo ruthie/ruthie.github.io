@@ -31,7 +31,7 @@ img.header{
 
 .tech-text{
     text-align: center;
-    color: #E0B2E0;/*#D6ADD6;*/
+    color: #E0B2E0;
 }
 
 .content{
@@ -58,6 +58,10 @@ td.nospace{
     margin-top: 2px;
     margin-bottom: 5px;
     padding-left: 10px;
+}
+
+.sidebar-link:hover{
+    background-color: #E0B2E0;
 }
 
 .link-text{

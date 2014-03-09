@@ -1,7 +1,7 @@
---
+---
 layout: blog
 title: Creativity and Constraints
---
+---
 
 One of my musical projects for the past couple of years has been to get better at improvising harmonies and accompaniment parts for the folk tunes I like to play.
 

@@ -1,3 +1,8 @@
+--
+layout: blog
+title: Creativity and Constraints
+--
+
 One of my musical projects for the past couple of years has been to get better at improvising harmonies and accompaniment parts for the folk tunes I like to play.
 
 Of all the assignments in this direction I've been given and things I've tried, the hardest ones are the most open ended.  It's just kind of overwhelming.  At a moment, I can choose to play any note.  Or two notes.  Or no notes.  And I can hold it for a long time or a short time.  And it can have any dynamic.  And then I have to choose another note.  And then another.  At 120 beats per minute.  Oh yeah, and it has to sound good.

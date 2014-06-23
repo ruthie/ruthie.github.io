@@ -39,6 +39,8 @@ I prefer if people ask me before dipping me for the first time.  I like being di
 
 This was my least successful communication of the evening.  I asked my waltz partner where he learned to waltz backwards (I was actually curious if he was a Scandinavian dancer, because this is something that Scandinavian dancers do).  He said "with you, my dear."  I think this kind of flirtatious comment is usually meant well, but it makes me a bit uncomfortable.  The best I could do was to say "that's not true" and shrug it off, but I wish I could do better.  Maybe something like my approach to being dipped would work, but I can't think of a clear formulation of what I'm asking them not to do.  Please don't flirt with me?  Please don't call me "my dear"?  If anyone has done something that worked well in this kind of situation, I'd love to hear about it.
 
+*Edit:  some relevant context is that this was a much older man, my guess is in his 70s.  Although I focus on flirtation because that's the part of the tone that bothered me, I don't believe this person was trying to flirt with me per se.  I think this is how he treats young women because he thinks they like being treated that way.*
+
 ## Gender free dancing at a gendered dance
 
 The first dance of the evening I danced with a young man who was moderately new to contra.  I guessed that he had only lead before, so I said "I assume you want to lead?"  He said he wanted to lead this one, but would be up for following one later.  Because it's behavior I want to encourage, and because this person was awesome enough to dance with twice in one night, I agreed.

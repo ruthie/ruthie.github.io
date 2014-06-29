@@ -55,7 +55,7 @@ Or
 
 ### Ask questions about things you don't know about.
 
-One strategy I've used is looking for holes in my own knowledge in what   Exposing my ignarance helps other people say things that are new to me, and 
+One strategy I've used is looking for holes in my own knowledge in what we're talking about.  Exposing my ignarance helps other people say things that are new to me.
 
 Example:
 

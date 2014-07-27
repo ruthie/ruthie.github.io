@@ -15,4 +15,7 @@ I love folk music and dance.  I [contra dance](http://en.wikipedia.org/wiki/Cont
 You can contact me at ruthie@alum.mit.edu.
 
 
+# Housekeeping
+
+Photos in the top bar of this site were taken by Alina Larson, Doug Plummer, Ben Kuhn, and Byron Wiley.
 

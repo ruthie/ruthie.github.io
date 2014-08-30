@@ -7,7 +7,7 @@ When I was in high school, most of what I knew about dating came from movies and
 
 For all that, I think I had pretty good high level ideas about relationships.  Respect your partner.  Try to make them happy.  Respect yourself.  Try to make yourself happy.  I didn't have any clear idea about how to create relationships like this, though, or really how to create relationships at all.  How do you ask people out?  How do you flirt?  If you go out with someone once, are you dating?  How about after two or three dates.  How do you bring up problems?  How do you break up?
 
-I have much some answers to these questions now, maybe even pretty good answers.  I don't have access to my younger self so I can explain things to her, but I may have access to other people with similar difficulties.
+I have some answers to these questions now, maybe even pretty good answers.  I don't have access to my younger self so I can explain things to her, but I may have access to other people with similar difficulties.
 
 Take this advice with a lot of caveats.  My experience dating is relatively narrow.  All of my serious relationships have been monogamous (or almost monogamous), opposite-gender, boyfriend/girlfriend relationships with people I met in person.  The fact that my relationships have all been pretty similar means that I don't know how this advice generalizes.  By the same token, however, similar relationships means I've been able to apply the things I've learned to subsequent relationships, so most of this advice comes from more than one experience.
 

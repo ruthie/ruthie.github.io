@@ -1,1 +1,6 @@
 markdown: kramdown
+name: Ruthie Byers's Blog
+url: ruthiebyers.com
+description: Writing about dancing, music, learning, teaching, and life around other people.
+author: Ruthie Byers
+rss_post_limit: 7

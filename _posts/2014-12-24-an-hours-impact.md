@@ -7,7 +7,7 @@ title: An Hour's Impact
 
 Thanks to [Ben Kuhn](http://benkuhn.net) for substantial help organizing and editing this post.
 
-## The Impact you can (and can't) Make in in an Hour
+## The Impact you can (and can't) Make in an Hour
 
 There's a trope in the EA world of comparing every activity to spending the same amount of time working and donating the money earned to charity.  The implication is that one shouldn't do any potentially charitable activities unless they meet this extremely high standard.  Some examples:
 
@@ -69,7 +69,7 @@ I’ve said that when deciding to spend time on something, it doesn’t make sen
 
 When you’re considering modifying a budget to add an ongoing time commitment, you can compare two plans directly, and be able to make claims with reasonable certainty about what you would do in the counterfactual if you don’t take on a commitment.
 
-Jeff Kaufman wrote about [keeping monetary choices donation neutral](http://www.jefftk.com/p/keeping-choices-donation-neutral) (he also mentions how he would approach some time tradeoffs).
+Jeff Kaufman wrote about [keeping monetary choices donation neutral](http://www.jefftk.com/p/keeping-choices-donation-neutral) (they also mention how they would approach some time tradeoffs).
 
 For many of us, donating money is going to be the most effective thing we do by a noticeable margin.  If this is true of you, this probably means putting work in its own category, since regularly choosing to do something besides work with your work time is probably not donation neutral.  If you don't think voting is an effective use of your time, but you still want to do it, go to the polls, but make sure you also meet your other time obligations for the week.
 
@@ -83,6 +83,6 @@ I also think it’s also reasonable to categorize an activity as "not very effec
 
 # Conclusion
 
-I think there’s a larger pattern that’s worth pointing out here.  Ben wrote about how the idea of [comparative advantage causes no one in the movement to do things that need to be done]().  Even though every individual career decision may make sense, in the context of the EA movement they fail to meet some needs.  Similarly, making decisions about how to spend our time without context causes us to allocate our time in ways that aren’t as valuable as we’re portraying them.
+I think there’s a larger pattern that’s worth pointing out here.  Ben wrote about how the idea of [comparative advantage causes no one in the movement to do things that need to be done](http://www.benkuhn.net/advantage).  Even though every individual career decision may make sense, in the context of the EA movement they fail to meet some needs.  Similarly, making decisions about how to spend our time without context causes us to allocate our time in ways that aren’t as valuable as we’re portraying them.
 
 I think there’s a tendency to discover a useful tool for thinking about how we should behave, and then apply it with insufficient scrutiny to too many situations.  We should spend more time stepping back and investigating the actual results of our decision-making algorithms, and looking for algorithms that result in states that we are happier with.

@@ -33,11 +33,11 @@ What if I'm a software engineer?  Since working more in tech probably helps you 
 
 * Tech salaries have a long tail.  If you end up the CTO of a successful company, you make a lot of money, but very few people achieve that.  One thing this means is that moving from the 60th percentile of tech workers to the 65th is probably much less valuable than moving from the 94th to the 99th.
 
-* It’s also probably much harder to move from the 60th percentile of tech workers to the 65th than from the 94th to the 99th, because the other people in the 94th percentile of tech workers are also pretty awesome.
+* It’s also probably much easier to move from the 60th percentile of tech workers to the 65th than from the 94th to the 99th, because the other people in the 94th percentile of tech workers are also pretty awesome.
 
 * It’s not obvious that working more will help you get ahead at all in tech (although I think it’s likely), and if so, what kind of work.  Learning new technical skills, expanding your open source resume, working for high-prestige companies, expanding your network, and investing in leadership and interpersonal skills all seem plausible routes forward, and I think any of them could be the best, and any of them could have almost no effect.
 
-Given this, my guess for the value of a marginal hour for a tech worker is something between a quarter and a half of their average salary.  Again, this is enough of a difference that we could be significantly mislead by valuing their time at their average hourly wage, as the examples above do.
+Given this, my guess for the value of a marginal hour for a tech worker is something between a quarter and a half of their average salary.  Again, this is enough of a difference that we could be significantly misled by valuing their time at their average hourly wage, as the examples above do.
 
 ### Counterfactual spending
 When I see these comparisons, they always compare the good done by volunteering to the amount of good that could be done with the full amount of money that the potential volunteer would earn.  This comparison makes some sense in the abstract-- if I’m willing to take a week off work to do good, I should be willing to work an additional week and donate the full amount, not just part of it.  However, if I usually donate 10% of my earnings to charity, I will probably only donate 10% of my weeks earnings if I work that week.

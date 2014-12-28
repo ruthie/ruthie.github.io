@@ -14,7 +14,7 @@ There's a trope in the EA world of comparing every activity to spending the same
 * Eliezer uses a canonical example from economics of [a lawyer who volunteers in a soup kitchen](http://lesswrong.com/lw/65/money_the_unit_of_caring/).
 * [Kidney donation](http://www.effective-altruism.com/ea/ay/kidney_donation_is_a_reasonable_choice_for/)
 * [Vegetarianism](http://www.effective-altruism.com/ea/ba/when_should_an_effective_altruist_be_vegetarian/)
-* [Voting](http://www.effective-altruism.com/ea/ba/when_should_an_effective_altruist_be_vegetarian/)
+* [Voting](http://www.effective-altruism.com/ea/b2/open_thread_5/1gd)
 
 This naive hour-for-hour comparison adequately captures the actual consequences of decisions that trade off time, and as I'll discuss in this post, I think they unfairly discourage us from using our time other ways.  We need ways to make decisions about how we spend our time that take into account how we're spending our time overall, not just any particular hour.
 

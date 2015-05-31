@@ -11,7 +11,7 @@ My fiddle is unique and irreplaceable.  My fiddle is also in a lot more danger u
 
 More importantly, as unique and irreplaceable as my instrument is, my time is also unique and irreplaceable.  If I miss a plane, that could be an evening of dancing I never get back, or dinner with a friend, or just some much-needed rest at home after a trip.
 
-Fundamentally, I have a fiddle so I can use it, including using it in places I have to fly to.  If protecting my instrument makes it difficult for me to bring it places, it's defeated it's own purpose (I feel a similar way about leaving instruments on chairs while I go to the bathroom at jams.
+Fundamentally, I have a fiddle so I can use it, including using it in places I have to fly to.  If protecting my instrument makes it difficult for me to bring it places, it has defeated its own purpose (I feel a similar way about leaving instruments on chairs while I go to the bathroom at jams).
 
 An obvious note: while this is how I feel about my instruments, and while I think a lot of people could buy a fancy case and relax about this issue, there are plenty of people who shouldn't take this risk, and only they can make that decision.  My decision is based on a cost/benifit analysis of missing a plane vs. a small risk of an injured instrument.  The costs and benefits of both sides of this equation can be completely different, and extremely personal, for other people.
 

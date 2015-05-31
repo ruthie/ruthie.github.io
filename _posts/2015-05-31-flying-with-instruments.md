@@ -3,7 +3,7 @@ layout: blog
 title: My Dirty Secret about Traveling with Instruments
 ---
 
-You must not, under any circumstances, tell any airline personelle that I said this.
+You must not, under any circumstances, tell any airline personnel that I said this.
 
 The truth is, when push comes to shove, I will never literally forfeit my seat on an airplane because I have to check my fiddle.
 

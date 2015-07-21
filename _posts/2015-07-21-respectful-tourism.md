@@ -1,0 +1,14 @@
+---
+layout: blog
+title: How can I be a Respectful Tourist?
+---
+
+How do you tourist respectfully?  I've been a tourist in Kenya for four days, and have had a range of experiences:
+
+On Saturday Ben and I went on a boat ride on Lake Victoria with a couple of others.  We went along pretty close to the coast, so we could see the people in the fishing villages working and cleaning and bathing in the water, then stopped at a small market where fish were being sold, and watched people preparing and cooking the fish.  Basically no one but the boat owner interacted with us the entire time.  This felt really bad, like the people I was seeing were in a zoo.
+
+On Sunday we went with a friend to the home of one of his local coworkers (he works for Innovations for Poverty Action, which employs locals as well as foreigners).  The family welcomed us, and let us watch while they slaughtered a chicken for lunch.  Then we took a walk around their village and everyone we met greeted us and shook hands.  We paid for the chicken, but the family otherwise didn't want money.  This experience felt good-- it's possible that the people who were so nice to us were compelled to for reasons I don't understand, but my guess is that they were just happy to have guests.
+
+Today Ben and I went on a tour of Kibera, a slum in Nairobi where somewhere between 200,000 and 500,000 people live.  The tour was run by locals, but it was definitely a commercial tour.  It was expensive, for one thing, and was into stopping by "feel good" locations, like a small crafts cooperative for HIV-Positive women.  We got to talk to individuals and ask questions, but I know that most of the people we talked to were hoping for donations or purchases of tourist tchotchkes, so I'm not sure how truthful their representations of life there were.  This experience was somewhere in the middle.  I didn't feel like I was invading anyone's privacy, but I was also not sure how good of a thing it was that I was there as a tourist.
+
+I feel like I'm mostly at the mercy of my guides as to how positive and respectful an experience I have, since they choose where we go and how they introduce us.  But besides having a lot of local friends (which I won't be able to do everywhere I go) I don't know how to find guides that will facilitate meeting people and talking to people in a genuine way that doesn't violate their boundaries.  I'm about to leave Kenya, so it's too late for anything new I learn to make a big difference on this trip, but I suspect I'll be back on the developing world at some point wondering how to connect with people and learn about their lives in positive ways.

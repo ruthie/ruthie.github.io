@@ -70,16 +70,13 @@ Things I notice here:
  * Will Wheeler (5)
  * Christie Hubbard (4)
 
-## Code and stuff
+## Where I got this Information
 
 I generated the statistics here from publicly posted schedules from
 
 * Bay Area Country Dance Society
-
 * North Bay Country Dance Society
-
 * Traditional Dancers of the Golden State (Hayward Contra)
-
 * SF Queer Contra
 
 Queer Contra booking information was suplemented by personal email from Margaret Pigman.

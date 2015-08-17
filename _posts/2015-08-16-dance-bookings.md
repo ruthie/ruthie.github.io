@@ -81,4 +81,4 @@ I generated the statistics here from publicly posted schedules from
 
 Queer Contra booking information was suplemented by personal email from Margaret Pigman.
 
-My processed schedules are in the *.csv files.  You should be able to open them with whatever your favorite spreadsheet format is.  There's some syntax to the band info; you can probably figure out how it works.  The code I used to process them is also in the repository.
+My processed schedules are in the *.csv files.  You should be able to open them with your favorite spreadsheet program.  There's some syntax to the band info; you can probably figure out how it works.  The code I used to process them is also in the repository.

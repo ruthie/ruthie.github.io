@@ -9,7 +9,7 @@ Ben and I have wanted to live in a group house for a while.  Last month, we fina
 
 ## Putting together a group
 
-Our first email-feelers looking for housemates went out in late May and early June.  We started by emailing people we knew were looking for housing, but quickly expanded to people we didn't know about.  We found three of the four people we were looking for this way, via two first degree connections and one second degree connection.  In mid-June I posted on facebook that I was looking for housemates, and found another friend-of-a-friend who was interested.  We all met up and everyone liked her, so we were set with a group.
+Our first email-feelers looking for housemates went out in late May and early June.  We started by emailing people we knew were looking for housing, but quickly expanded to people whose housing situations we didn't know about.  We found three of the four people we were looking for this way, via two first degree connections and one second degree connection.  In mid-June I posted on facebook that I was looking for housemates, and found another friend-of-a-friend who was interested.  We all met up and everyone liked her, so we were set with a group.
 
 One thing that made housemate-finding harder than otherwise was that me and Ben have two very different social circles.  Neither of us wanted a house entirely drawn from the other's circle, so we had to find people from both circles who were happy living in a house that straddled those communities.  We succeeded, but it added a layer of complexity and awkwardness to the search.
 
@@ -19,9 +19,9 @@ We had to give six weeks notice at our old place, which meant that we had to giv
 
 ## Finding a house
 
-The house-finding process was substantially complicated for us by the fact that me and Ben were in Kenya for the middle two weeks of July (we were looking for an August lease).  We watched Craigslist and went to some open houses before we left, and our housemates continued the search with documents from us available to show potential landlords if needed.  The Bay Area housing market is competitive by reputation, but we rejected at least three houses, and no landlord rejected us (we only filled out applications for the house we eventually rented).
+The house-finding process was substantially complicated for us by the fact that me and Ben were in Kenya for the middle two weeks of July.  We watched Craigslist and went to some open houses before we left, and our housemates continued the search with documents from us available to show potential landlords if needed.  The Bay Area housing market is competitive by reputation, but we rejected at least three houses, and no landlord rejected us (we only filled out applications for the house we eventually rented).
 
-The house we eventually rented is not particularly large or nice, and is in a less convenient location that one might hope, but is almost half of the price we expected we'd pay.  It was also on a short timeline-- we saw the house, applied, and signed the lease all within about a week.
+The house we eventually rented is not particularly large or nice, and is in a less convenient location that one might hope, but is almost half of the price we expected we'd pay.  We also got it on a short timeline-- we saw the house, applied, and signed the lease all within about a week.
 
 ## Moving, moving again, buying appliances.
 

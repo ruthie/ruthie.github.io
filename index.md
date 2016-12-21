@@ -4,7 +4,7 @@ title:  Home
 ---
 # About
 
-I am a software engineer and an engineering lead at [Wave](https://sendwave.com).  I'm excited by the power of good software tools, and I want to bring that power to people who don't necessarily have it.  I'm also interested in how people learn computer science, and tools that help build conceptual understanding as well as the ability to make things.
+I am a software engineer and an engineering lead at [Wave](https://sendwave.com).  I'm excited by the power software, and I want to bring that power to people who are currently less well served by it.  I'm also interested in how people learn computer science, and tools that help build conceptual understanding as well as the ability to make things.
 
 I graduated from MIT in 2013 with a bachelors degree in Computer Science and a minor in Math.  While there I helped organize [Splash](http://esp.mit.edu/learn/Splash), and as an alum I have volunteered for [Learning Unlimited](http://learningu.org) to help spread Splash beyond MIT.
 

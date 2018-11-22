@@ -11,6 +11,7 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <h1>{{ post.title }} </h1>
+    <p><b>{{ page.date | date: "%-d %B %Y"}}</b></p>
     {{post.content}}
     <a href="{{ post.url }}">See full post with comments</a>
     <hr class="divider">

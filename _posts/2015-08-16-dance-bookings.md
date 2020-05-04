@@ -1,9 +1,12 @@
 ---
-layout: blog
+layout: post
 title: Who Gets Booked in the Bay Area, Music Edition
+excerpt_separator: <!--more-->
 ---
 
 I recently spent roughly 20 hours on airplanes had time to take on a silly useless project.  So I took all of the Bay Area contra dance schedules for the last two years, converted the information into csv format, and made pretty pictures of the results.  Since there's a lot of stuff there, I'm commenting on music related things in this post.  I will comment more in future posts.
+
+<!--more-->
 
 All the pretty pictures can be found [here](/contra_bookings.html).  Mouse over to see details for a particular dance.
 

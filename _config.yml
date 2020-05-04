@@ -1,5 +1,36 @@
-markdown: kramdown
-title: Ruthie Byers's Blog
-description: Writing about dancing, music, learning, teaching, and life around other people.
+#Update all the sections by editing the data.yml file inside _data folder.
+
+# Site Settings
+title: Ruthie Byers
 author: Ruthie Byers
-url: http://www.ruthiebyers.com
+url: 'http://ruthiebyers.com'
+baseurl: ''
+description: Personal website of Ruthie Byers
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+
+# Tracker
+# analytics: UA-83979019-1
+
+# Blog posts
+excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_separator: "<!--more-->"
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Build settings
+compress-site: yes
+
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false

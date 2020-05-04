@@ -1,6 +1,7 @@
 ---
-layout: blog
+layout: post
 title: Who gets booked in the Bay Area, Callers Edition
+excerpt: In which I comment on who was booked to call Bay Area contra dances in 2013 and 2014.
 ---
 
 Here are the top nine most-booked callers (tenth was a four way tie, so I'm omitting it here).

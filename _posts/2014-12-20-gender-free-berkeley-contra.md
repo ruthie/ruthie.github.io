@@ -1,6 +1,7 @@
 ---
-layout: blog
+layout: post
 title: Gender Free Dancing is for Everyone
+excerpt:  In which I discuss why even straight people benefited when Berkeley's previously gendered contra moved to gender-role-free language.
 ---
 
 Berkeley's mainstream contra had its first entirely gender-free dance this week.  Erik Hoffman, who calls that dance about half the time, used "larks" and "ravens" to refer to the traditional gents and ladies roles, and he's announced that he will continue to use non-gendered language in the future.  Guest callers will still have their choice of language, but my guess is that many of them will try larks and ravens.

@@ -1,0 +1,52 @@
+/* ======= Custom (added on top of theme stuff) ======= */
+
+a.readmore {
+    display: block;
+    margin-top: -0.5em;
+    text-align: right;
+}
+
+.postlist {
+    margin-top: 2em;
+}
+
+.writingsheader {
+    text-align: center;
+    margin-top: -0.5em;
+}
+
+/* Dashed horizontal divider adapted from: https://codepen.io/simeydotme/pen/rVqrrN */
+
+$bg: $main-wrapper;
+$barsize: 15px;
+
+.hr {
+    width: 100%;
+    height: 1px;
+    display: block;
+    position: relative;
+    margin-bottom: 0em;
+    padding: 2em 0;
+
+    &:after,
+    &:before {
+        content: "";
+        position: absolute;
+
+        width: 100%;
+        height: 1px;
+        bottom: 50%;
+        left: 0;
+    }
+
+    &:before {
+        background: linear-gradient( 90deg, $bg 0%, $bg 50%, transparent 50%, transparent 100% );
+        background-size: $barsize;
+        background-position: center;
+        z-index: 1;
+    }
+
+    &:after {
+        background-color: $background;
+    }
+}

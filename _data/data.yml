@@ -1,0 +1,34 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Ruthie Byers
+    pronouns: she/her
+    tagline: ''
+    avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ruthie@alum.mit.edu
+#    phone:
+#    website:
+    linkedin: ruthie-byers-a2b98999
+    github: ruthie
+#    gitlab:
+#    bitbucket:
+#    twitter:
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
+
+#    languages:
+#      - idiom: English
+#        level: Native
+#
+#    interests:
+#      - item: Climbing
+#        link:

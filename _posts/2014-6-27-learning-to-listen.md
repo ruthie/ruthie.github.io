@@ -1,9 +1,12 @@
 ---
-layout: blog
+layout: post
 title: Learning to Listen
+excerpt_separator: <!--more-->
 ---
 
 I've noticed particular people being good at listening, both in very casual and very personal situations.  I am not one of these people, but would like to become one.  I've asked some people what they do and I've done some practicing and this is what I've learned so far.
+
+ <!--more-->
 
 ## Ping-Pong Conversations
 

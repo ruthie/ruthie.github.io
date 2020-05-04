@@ -1,20 +1,37 @@
-<div class="sidebar">
+{% assign sidebar = site.data.data.sidebar %}
+<div class="sidebar-wrapper">
 
-  <a href="/index.html" class="link-text">
-    <div class="sidebar-link">
-	<h2>Home</h2>
-    </div>
-  </a>
+  <div class="profile-container">
 
-  <a href="/blog.html" class="link-text">
-    <div class="sidebar-link">
-	<h2>Blog</h2>
-    </div>
-  </a>
+    {% if sidebar.name %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% endif %}
 
-  <a href="/projects.html" class="link-text">
-    <div class="sidebar-link">
-	<h2>Projects</h2>
-    </div>
-  </a>
+    {% if sidebar.name %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+    {% endif %}
+
+    {% if sidebar.pronouns %}
+    <h4 class="pronouns">({{ sidebar.pronouns }})</h4>
+    {% endif %}
+
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+
+  </div>
+
+  {% include contact.html %}
+
+  {% if sidebar.education %}
+    {% include education.html %}
+  {% endif %}
+
+  {% include language.html %}
+  {% include interests.html %}
+
+  {% if sidebar.about %}
+    {% include about.html %}
+  {% endif %}
+
 </div>

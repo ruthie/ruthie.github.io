@@ -1,9 +1,12 @@
 ---
-layout: blog
+layout: post
 title: Contra Dance Bookings and Gender
+excerpt_separator: <!--more-->
 ---
 
 I [promised a while ago]() I would write a post analyzing gender in the context of contra dance bookings.  This post keeps that promise.  I was hoping to be able to draw more interesting conclusions, but alas, my dataset was too small to do so with any confidence.
+
+<!--more-->
 
 ## tl;dr
 

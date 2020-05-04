@@ -1,0 +1,14 @@
+/* Custom color-scheme variables */
+$theme-color: #730039;
+$text-color: #545E6C;
+$text-color-secondary: #3F4650; /* NB: used in some sidebar sections we're not currently using */
+$text-grey: #0F0FFF;
+$divider: #e8e8e8;
+$lighter-grey: #bbb;
+$darker-grey: #666;
+$background: lighten(#545E6C, 48%);
+$main-wrapper: #f5f5f5;
+$heart: #fb866a; /* NB: removed */
+
+$link-color: #FF724C;
+$link-hover-color: darken($link-color, 30%);

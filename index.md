@@ -8,6 +8,8 @@ I am Director of Security at [Wave](https://sendwave.com).  I'm excited by the p
 
 I graduated from MIT in 2013 with a bachelors degree in Computer Science and a minor in Math.  While there I helped organize [Splash](http://esp.mit.edu/learn/Splash), and as an alum I have volunteered for [Learning Unlimited](http://learningu.org) to help spread Splash beyond MIT.
 
+Also I am v cute.
+
 I love folk music (fiddle, singing) and dance (contra, English, waltz, rapper).  Some specific affiliations:
 * I am an organizer of an organizer of [Next Generation Dance Camp](http://nextgendancecamp.org).  
 * I dance rapper with [Harbour Steel](https://www.facebook.com/harboursteel/)

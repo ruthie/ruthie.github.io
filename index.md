@@ -13,6 +13,8 @@ I love folk music (fiddle, singing) and dance (contra, English, waltz, rapper). 
 * I dance rapper with [Harbour Steel](https://www.facebook.com/harboursteel/)
 * Played fiddle with the no-longer-active contra dance band [Switching Protocols](http://switchingprotocolsband.com/)
 
+You can hear some of my music on my [Youtube Channel](https://www.youtube.com/channel/UCYO2NxtLZCQg5GLzB4aa0_g)
+
 <b class="hr">
 
 <h3 class="writingsheader">Writings</h3>

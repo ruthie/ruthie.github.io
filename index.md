@@ -4,7 +4,7 @@ title:  Home
 ---
 ## About Me
 
-I am Director of Security at [Wave](https://sendwave.com).  I'm excited by the power of software, and I want to bring that power to people who are currently less well served by it.
+I am a software engineer at [Wave](https://sendwave.com).  I'm excited by the power of software, and I want to bring that power to people who are currently less well served by it.
 
 I graduated from MIT in 2013 with a bachelors degree in Computer Science and a minor in Math.  While there I helped organize [Splash](http://esp.mit.edu/learn/Splash), and as an alum I have volunteered for [Learning Unlimited](http://learningu.org) to help spread Splash beyond MIT.
 

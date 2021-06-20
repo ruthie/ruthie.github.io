@@ -9,7 +9,7 @@ I am a software engineer at [Wave](https://sendwave.com).  I'm excited by the po
 I graduated from MIT in 2013 with a bachelors degree in Computer Science and a minor in Math.  While there I helped organize [Splash](http://esp.mit.edu/learn/Splash), and as an alum I have volunteered for [Learning Unlimited](http://learningu.org) to help spread Splash beyond MIT.
 
 I love folk music (fiddle, singing) and dance (contra, English, waltz, rapper).  Some specific affiliations:
-* I am an organizer of an organizer of [Next Generation Dance Camp](http://nextgendancecamp.org).  
+* I am part of the group that organizes [Youth Trad Song Weekend](http://youthtradsong.wordpress.com/)
 * I dance rapper with [Harbour Steel](https://www.facebook.com/harboursteel/)
 * Played fiddle with the no-longer-active contra dance band [Switching Protocols](http://switchingprotocolsband.com/)
 

@@ -17,8 +17,12 @@ You can hear some of my music on my [Youtube Channel](https://www.youtube.com/ch
 
 <b class="hr">
 
-<h3 class="writingsheader">Writings</h3>
+<h3 class="writingsheader">Blog</h3>
 
-I infrequently write new things, but here are my favorite blog posts, preserved for posterity.
 
-{% include postlist.html %}
+
+<h3 class="writingsheader">Older Writings</h3>
+
+Here are my favorite blog posts from my earlier round of blogging (circa 2013-2016), preserved for posterity.
+
+{% include old_postlist.html %}

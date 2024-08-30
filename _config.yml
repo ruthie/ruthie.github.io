@@ -33,6 +33,10 @@ compress_html: # - http://jch.penibelst.de/
 plugins:
   - jekyll-redirect-from
 
+collections:
+  old_posts:
+    output: true
+
 # Development Settings
 port: 4000
 host: 0.0.0.0

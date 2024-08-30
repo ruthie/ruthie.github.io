@@ -4,9 +4,9 @@ title:  Home
 ---
 ## About Me
 
-I am a software engineer at [Wave](https://sendwave.com).  I'm excited by the power of software, and I want to bring that power to people who are currently less well served by it.
+I am an engineering director at [Wave](https://wave.com).  I'm excited by the power of software, and I want to bring that power to people who are currently less well served by it.
 
-I graduated from MIT in 2013 with a bachelors degree in Computer Science and a minor in Math.  While there I helped organize [Splash](http://esp.mit.edu/learn/Splash), and as an alum I have volunteered for [Learning Unlimited](http://learningu.org) to help spread Splash beyond MIT.
+I graduated from MIT in 2013 with a bachelors degree in Computer Science and a minor in Math.  While there I helped organize [Splash](http://esp.mit.edu/learn/Splash).
 
 I love folk music (fiddle, singing) and dance (contra, English, waltz, rapper).  Some specific affiliations:
 * I am part of the group that organizes [Youth Trad Song Weekend](http://youthtradsong.wordpress.com/)

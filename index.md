@@ -17,9 +17,11 @@ You can hear some of my music on my [Youtube Channel](https://www.youtube.com/ch
 
 <b class="hr">
 
-<h3 class="writingsheader">Blog</h3>
+<h3 class="writingsheader">Parenting Blog</h3>
 
+{% include postlist.html %}
 
+<b class="hr">
 
 <h3 class="writingsheader">Older Writings</h3>
 

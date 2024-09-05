@@ -8,6 +8,8 @@ I am an engineering director at [Wave](https://wave.com).  I'm excited by the po
 
 I graduated from MIT in 2013 with a bachelors degree in Computer Science and a minor in Math.  While there I helped organize [Splash](http://esp.mit.edu/learn/Splash).
 
+Also I am v cute.
+
 I love folk music (fiddle, singing) and dance (contra, English, waltz, rapper).  Some specific affiliations:
 * I am part of the group that organizes [Youth Trad Song Weekend](http://youthtradsong.wordpress.com/)
 * I dance rapper with [Harbour Steel](https://www.facebook.com/harboursteel/)
